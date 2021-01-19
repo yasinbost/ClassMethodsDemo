@@ -23,6 +23,6 @@ namespace ClassMetotDemo
             elitCustomer.DelCustomer(customer1);
 
             elitCustomer.CustomerList(elitCustomer.CustomerInfo);
-        }
+        }  // this is test messsages
     }
 }

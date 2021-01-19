@@ -19,11 +19,12 @@ namespace ClassMetotDemo
 
            
             CustomerName = Name;
-           
 
+            CustomerId = 1;
         }
 
-
+        // this is test messsages
+        // Github a ekleme
 
     }
 }
